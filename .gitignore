@@ -3,3 +3,7 @@
 *_env.ini
 **/.DS_Store
 node_modules
+.idea
+cmake-build-*
+CMakeLists.txt
+CMakeListsPrivate.txt
